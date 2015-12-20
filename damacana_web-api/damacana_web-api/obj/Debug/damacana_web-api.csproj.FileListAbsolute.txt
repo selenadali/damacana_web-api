@@ -61,3 +61,5 @@ C:\Users\toshiba\Documents\GitHub\damacana_web-api\damacana_web-api\damacana_web
 C:\Users\toshiba\Documents\GitHub\damacana_web-api\damacana_web-api\damacana_web-api\obj\Debug\damacana_web-api.csprojResolveAssemblyReference.cache
 C:\Users\toshiba\Documents\GitHub\damacana_web-api\damacana_web-api\damacana_web-api\obj\Debug\damacana_web-api.dll
 C:\Users\toshiba\Documents\GitHub\damacana_web-api\damacana_web-api\damacana_web-api\obj\Debug\damacana_web-api.pdb
+C:\Users\toshiba\Documents\GitHub\damacana_web-api\damacana_web-api\damacana_web-api\obj\Debug\damacana_web_api.Migrations.Initial.resources
+C:\Users\toshiba\Documents\GitHub\damacana_web-api\damacana_web-api\damacana_web-api\obj\Debug\damacana_web-api.csproj.GenerateResource.Cache
