@@ -63,3 +63,10 @@ C:\Users\toshiba\Documents\GitHub\damacana_web-api\damacana_web-api\damacana_web
 C:\Users\toshiba\Documents\GitHub\damacana_web-api\damacana_web-api\damacana_web-api\obj\Debug\damacana_web-api.pdb
 C:\Users\toshiba\Documents\GitHub\damacana_web-api\damacana_web-api\damacana_web-api\obj\Debug\damacana_web_api.Migrations.Initial.resources
 C:\Users\toshiba\Documents\GitHub\damacana_web-api\damacana_web-api\damacana_web-api\obj\Debug\damacana_web-api.csproj.GenerateResource.Cache
+C:\Users\toshiba\Documents\GitHub\damacana_web-api\damacana_web-api\damacana_web-api\bin\Swagger.Api.dll
+C:\Users\toshiba\Documents\GitHub\damacana_web-api\damacana_web-api\damacana_web-api\bin\Swagger.Net.dll
+C:\Users\toshiba\Documents\GitHub\damacana_web-api\damacana_web-api\damacana_web-api\bin\Swashbuckle.Core.dll
+C:\Users\toshiba\Documents\GitHub\damacana_web-api\damacana_web-api\damacana_web-api\bin\WebActivator.dll
+C:\Users\toshiba\Documents\GitHub\damacana_web-api\damacana_web-api\damacana_web-api\bin\WebActivatorEx.dll
+C:\Users\toshiba\Documents\GitHub\damacana_web-api\damacana_web-api\damacana_web-api\bin\Swagger.Net.pdb
+C:\Users\toshiba\Documents\GitHub\damacana_web-api\damacana_web-api\damacana_web-api\bin\Swagger.Net.xml
