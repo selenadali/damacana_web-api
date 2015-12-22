@@ -17,6 +17,7 @@ namespace damacana_web_api.Models
     
         public damacana_web_apiContext() : base("name=damacana_web_apiContext")
         {
+                        this.Database.Log = s => System.Diagnostics.Debug.WriteLine(s);
         }
 
         public System.Data.Entity.DbSet<damacana_web_api.Models.Product> Products { get; set; }
